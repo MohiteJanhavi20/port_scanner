@@ -5,10 +5,10 @@ Educational multithreaded TCP port scanner in Python — demonstrates sockets, t
 **Language:** Python 3  
 **Purpose:** Educational project demonstrating sockets, threading, and queues for scanning TCP ports.
 
-## 🔍 What this does
+##  What this does
 This project scans a range of TCP ports on a target IP and reports which ports are open. It uses multithreading and a queue to speed up scanning.
 
-## ⚠️ Ethical & Legal notice
+##  Ethical & Legal notice
 **Only scan machines you own or have explicit permission to scan.** Unauthorized scanning can be illegal and may be considered an attack.
 
 ## Features
